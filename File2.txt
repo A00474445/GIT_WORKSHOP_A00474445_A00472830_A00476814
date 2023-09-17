@@ -9,4 +9,8 @@ public int modulus(int a, int b){
 def Division(num1, num2):
     return num1 // num2
 
+#A00472830
 
+Public int Min(int a,int b){
+	return Math.min(a,b);
+}
