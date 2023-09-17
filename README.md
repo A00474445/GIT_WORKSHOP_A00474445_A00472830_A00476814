@@ -7,6 +7,11 @@
 * Division (/)
 * Max - Math.max()
 
+### Rishabh Khevaria | A00476814
+* Subtraction (-)
+* Mod (%)
+* Avg- Math.avg()
+
 ### Princeton Dcunha | A00472830
 * Multiplication (*)
 * Min - Math.min()
