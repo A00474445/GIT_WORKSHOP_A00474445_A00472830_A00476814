@@ -3,3 +3,10 @@
 public int modulus(int a, int b){
 	return a%b;
 	}
+
+
+#A00474445 | Sameer Patel
+def Division(num1, num2):
+    return num1 // num2
+
+
