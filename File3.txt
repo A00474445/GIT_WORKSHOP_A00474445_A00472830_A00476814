@@ -1,1 +1,4 @@
-
+#A00476814 | Rishabh Khevaria
+public float average(float a, float b){
+	return Math.avg(a,b);
+}  
