@@ -1,1 +1,5 @@
+#A00472830
 
+Public int Min(int a,int b){
+	return Math.min(a,b);
+}
