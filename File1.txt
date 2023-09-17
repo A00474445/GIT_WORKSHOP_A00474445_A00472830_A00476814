@@ -1,3 +1,10 @@
+
 #A00474445 | Sameer Patel
 def Addition(num1, num2):
     return num1 + num2
+
+#A00476814
+public int substraction(int a, int b){
+	return a-b;
+	}
+
