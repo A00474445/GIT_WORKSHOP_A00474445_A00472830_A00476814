@@ -1,1 +1,8 @@
-# GIT_WORKSHOP_A00474445_A00472830_A00476814
+# Git Workshop Team Assignment | Team Loyola
+
+## Team Members
+
+### Sameer Patel | A00474445
+* Addition (+)
+* Division (/)
+* Max - Math.max() 
