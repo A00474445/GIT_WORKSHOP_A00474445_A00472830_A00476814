@@ -1,6 +1,10 @@
-
 #A00472830
-
 Public int Pow(int a, int b){
 	return Math.Pow(a,b);
 }
+
+#A00476814 | Rishabh Khevaria
+public float average(float a, float b){
+	return Math.avg(a,b);
+}  
+
