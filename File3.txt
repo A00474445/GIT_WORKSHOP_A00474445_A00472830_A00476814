@@ -8,3 +8,6 @@ public float average(float a, float b){
 	return Math.avg(a,b);
 }  
 
+#A00474445 | Sameer Patel
+def MaxMath(num1, num2):
+    return math.Max(num1, num2)
